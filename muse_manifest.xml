@@ -1,0 +1,155 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="darkindigo.com" resolutions="1x" timestamp="1626142369202">
+  <folder name="css">
+    <file name="site_global.css" crc="408448224"/>
+    <file name="index.css" crc="4103928903" ref="index"/>
+    <file name="nomq_index.css" crc="3832810300" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="currículum-vítae.pdf" crc="452959444" seo="true" mt="1625430347000"/>
+    <file name="portafolio.pdf" crc="4169515996" seo="true" mt="1624943266000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u1420.php" crc="444085304" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="inicio-favicon.ico" crc="458195130" ref="index"/>
+    <file name="img_1706.jpg" crc="305507414" ref="index"/>
+    <file name="textura_mesa de trabajo 1.svg" crc="3819386366" ref="index"/>
+    <file name="textura_mesa de trabajo 1_poster_u324.png" crc="290332962" ref="index"/>
+    <file name="sin título-1_mesa de trabajo 1.svg" crc="3983989956" ref="index"/>
+    <file name="sin título-1_mesa de trabajo 1_poster_u236.png" crc="11948938" ref="index"/>
+    <file name="icono_mesa-de-trabajo-1.svg" crc="4242872376" seo="true" ref="index"/>
+    <file name="icono_mesa de trabajo 1_poster_.png" crc="4075964157" ref="index"/>
+    <file name="logo.svg" crc="3765730491" ref="index"/>
+    <file name="logo_poster_u5412.png" crc="4288508234" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="diseno-grafico.jpg" crc="4054847542" ref="index"/>
+    <file name="1.jpg" crc="3934350063" seo="true" ref="index"/>
+    <file name="2.jpg" crc="127469592" seo="true" ref="index"/>
+    <file name="3.jpg" crc="4072908547" seo="true" ref="index"/>
+    <file name="4.jpg" crc="4262929287" seo="true" ref="index"/>
+    <file name="5.jpg" crc="4153272421" seo="true" ref="index"/>
+    <file name="6.jpg" crc="4222789714" seo="true" ref="index"/>
+    <file name="7.jpg" crc="456300688" seo="true" ref="index"/>
+    <file name="8.jpg" crc="4164418092" seo="true" ref="index"/>
+    <file name="9.jpg" crc="3777172789" seo="true" ref="index"/>
+    <file name="1-crop-u423.jpg" crc="52621978" ref="index"/>
+    <file name="2-crop-u1115.jpg" crc="521899048" ref="index"/>
+    <file name="3250x167.jpg" crc="3992504987" seo="true" ref="index"/>
+    <file name="4-crop-u1167.jpg" crc="4034835030" ref="index"/>
+    <file name="5-crop-u1193.jpg" crc="3847911426" ref="index"/>
+    <file name="6-crop-u1219.jpg" crc="481400423" ref="index"/>
+    <file name="7250x167.jpg" crc="534813067" seo="true" ref="index"/>
+    <file name="8-crop-u1271.jpg" crc="511815673" ref="index"/>
+    <file name="9-crop-u1297.jpg" crc="4251707110" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="icono_mesa-de-trabajo-12.svg" crc="4242872376" seo="true" ref="index"/>
+    <file name="icono_mesa de trabajo 1_poster_2.png" crc="4075964157" ref="index"/>
+    <file name="1-crop-u407.jpg" crc="452006913" ref="index"/>
+    <file name="2-crop-u1107.jpg" crc="4170808638" ref="index"/>
+    <file name="4-crop-u1159.jpg" crc="142162921" ref="index"/>
+    <file name="5-crop-u1185.jpg" crc="519047149" ref="index"/>
+    <file name="6-crop-u1211.jpg" crc="104897601" ref="index"/>
+    <file name="8-crop-u1263.jpg" crc="4134707043" ref="index"/>
+    <file name="9-crop-u1289.jpg" crc="457628918" ref="index"/>
+    <file name="1-crop-u4232.jpg" crc="251863149" ref="index"/>
+    <file name="2-crop-u11152.jpg" crc="30275369" ref="index"/>
+    <file name="3240x160.jpg" crc="4209245110" seo="true" ref="index"/>
+    <file name="4-crop-u11672.jpg" crc="3781064161" ref="index"/>
+    <file name="5-crop-u11932.jpg" crc="4065893203" ref="index"/>
+    <file name="6-crop-u12192.jpg" crc="3904752802" ref="index"/>
+    <file name="7240x160.jpg" crc="3873725198" seo="true" ref="index"/>
+    <file name="8-crop-u12712.jpg" crc="3852332238" ref="index"/>
+    <file name="9-crop-u12972.jpg" crc="3976608508" ref="index"/>
+    <file name="img_1706-u307-fr.jpg" crc="4126167971" ref="index"/>
+    <file name="menú.svg" crc="48703846" ref="index"/>
+    <file name="menú_poster_u2475.png" crc="138797412" ref="index"/>
+    <file name="cerrar.svg" crc="209817221" ref="index"/>
+    <file name="cerrar_poster_u5404.png" crc="487172990" ref="index"/>
+    <file name="3-crop-u1133.jpg" crc="236047498" ref="index"/>
+    <file name="4-crop-u11592.jpg" crc="185842240" ref="index"/>
+    <file name="5-crop-u11852.jpg" crc="505440342" ref="index"/>
+    <file name="7-crop-u1237.jpg" crc="59469392" ref="index"/>
+    <file name="8-crop-u12632.jpg" crc="3936510683" ref="index"/>
+    <file name="9-crop-u12892.jpg" crc="261388689" ref="index"/>
+    <file name="1-crop-u4233.jpg" crc="330122849" ref="index"/>
+    <file name="2-crop-u11153.jpg" crc="4085165250" ref="index"/>
+    <file name="3200x134.jpg" crc="320212151" seo="true" ref="index"/>
+    <file name="4-crop-u11673.jpg" crc="387668357" ref="index"/>
+    <file name="5-crop-u11933.jpg" crc="4182855348" ref="index"/>
+    <file name="6-crop-u12193.jpg" crc="4195276444" ref="index"/>
+    <file name="7200x134.jpg" crc="138831163" seo="true" ref="index"/>
+    <file name="8-crop-u12713.jpg" crc="3815813335" ref="index"/>
+    <file name="9-crop-u12973.jpg" crc="171992541" ref="index"/>
+    <file name="img_1706-u307-fr2.jpg" crc="3921129073" ref="index"/>
+    <file name="1-crop-u4072.jpg" crc="4243901341" ref="index"/>
+    <file name="2-crop-u11072.jpg" crc="411460524" ref="index"/>
+    <file name="3-crop-u11332.jpg" crc="278825917" ref="index"/>
+    <file name="7-crop-u12372.jpg" crc="232303611" ref="index"/>
+    <file name="1-crop-u4234.jpg" crc="415540183" ref="index"/>
+    <file name="2-crop-u11154.jpg" crc="422804668" ref="index"/>
+    <file name="3203x136.jpg" crc="3982992999" seo="true" ref="index"/>
+    <file name="4-crop-u11674.jpg" crc="3852379512" ref="index"/>
+    <file name="5-crop-u11934.jpg" crc="4011286852" ref="index"/>
+    <file name="6-crop-u12194.jpg" crc="4041346933" ref="index"/>
+    <file name="7203x136.jpg" crc="510819645" seo="true" ref="index"/>
+    <file name="8-crop-u12714.jpg" crc="4233870200" ref="index"/>
+    <file name="9-crop-u12974.jpg" crc="3786488571" ref="index"/>
+    <file name="1-crop-u4073.jpg" crc="3947501610" ref="index"/>
+    <file name="2-crop-u11073.jpg" crc="205482059" ref="index"/>
+    <file name="3-crop-u11333.jpg" crc="123960644" ref="index"/>
+    <file name="4-crop-u11593.jpg" crc="3937089606" ref="index"/>
+    <file name="5-crop-u11853.jpg" crc="460948494" ref="index"/>
+    <file name="6477x478.jpg" crc="3976260273" seo="true" ref="index"/>
+    <file name="7-crop-u12373.jpg" crc="265940061" ref="index"/>
+    <file name="1-crop-u4235.jpg" crc="3914545178" ref="index"/>
+    <file name="2-crop-u11155.jpg" crc="331309240" ref="index"/>
+    <file name="3180x120.jpg" crc="4196825692" seo="true" ref="index"/>
+    <file name="4-crop-u11675.jpg" crc="4051451559" ref="index"/>
+    <file name="5-crop-u11935.jpg" crc="8858581" ref="index"/>
+    <file name="6-crop-u12195.jpg" crc="4073932207" ref="index"/>
+    <file name="7180x120.jpg" crc="363765790" seo="true" ref="index"/>
+    <file name="8-crop-u12715.jpg" crc="4115999905" ref="index"/>
+    <file name="9-crop-u12975.jpg" crc="51848036" ref="index"/>
+    <file name="img_1706-u307-fr3.jpg" crc="351091974" ref="index"/>
+    <file name="diseno-grafico-u332-fr.jpg" crc="65236970" ref="index"/>
+    <file name="1-crop-u4074.jpg" crc="243833289" ref="index"/>
+    <file name="2-crop-u11074.jpg" crc="33016706" ref="index"/>
+    <file name="3-crop-u11334.jpg" crc="4235388444" ref="index"/>
+    <file name="4282x436.jpg" crc="424253024" seo="true" ref="index"/>
+    <file name="5282x436.jpg" crc="74640972" seo="true" ref="index"/>
+    <file name="6-crop-u12112.jpg" crc="3965826595" ref="index"/>
+    <file name="7-crop-u12374.jpg" crc="3866863347" ref="index"/>
+    <file name="8291x436.jpg" crc="17627493" seo="true" ref="index"/>
+    <file name="9291x436.jpg" crc="228310064" seo="true" ref="index"/>
+    <file name="1-crop-u4236.jpg" crc="506785538" ref="index"/>
+    <file name="2-crop-u11156.jpg" crc="350751438" ref="index"/>
+    <file name="3130x87.jpg" crc="4027323513" seo="true" ref="index"/>
+    <file name="4-crop-u11676.jpg" crc="3767105263" ref="index"/>
+    <file name="5-crop-u11936.jpg" crc="536723465" ref="index"/>
+    <file name="6-crop-u12196.jpg" crc="402337190" ref="index"/>
+    <file name="7130x87.jpg" crc="233680403" seo="true" ref="index"/>
+    <file name="8-crop-u12716.jpg" crc="4148252484" ref="index"/>
+    <file name="9-crop-u12976.jpg" crc="4022321826" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3830698296" seo="true" mt="1626142214582" redirect="true"/>
+</manifest>
